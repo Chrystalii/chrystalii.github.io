@@ -5,9 +5,7 @@ navbar_name: "Xiangmeng Wang"
 positions:
 - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
   name: Research Assistant Professor
-- name: The Hong Kong Polytechnic University (PolyU)
-- name: Department of Computing (COMP), Faculty of Engineering
-- name: Office: PQ742, Mong Man Wai Building, Hung Hom, Kowloon, Hong Kong SAR.
+- name: The Hong Kong Polytechnic University (PolyU), Department of Computing (COMP), Faculty of Engineering
 
 
 email: "xiangmengpoly.wang@polyu.edu.hk"
