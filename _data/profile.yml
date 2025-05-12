@@ -5,14 +5,7 @@ navbar_name: "Xiangmeng Wang"
 positions:
 - logo: /assets/images/logo.jpg  # Logo is optional
   name: <strong>Research Assistant Professor</strong>
-- name: 
-The Hong Kong Polytechnic University (PolyU)
-<br>
-<a href="https://www.polyu.edu.hk/comp/">Department of Computing (COMP)</a>, Faculty of Engineering
-<br>
-Office at PQ742, Mong Man Wai Building, Hung Hom, Kowloon, Hong Kong SAR.
-
-
+- name: The Hong Kong Polytechnic University (PolyU) <br> <a href="https://www.polyu.edu.hk/comp/">Department of Computing (COMP)</a>, Faculty of Engineering <br> Office at PQ742, Mong Man Wai Building, Hung Hom, Kowloon, Hong Kong SAR.
 
 email: "xiangmengpoly.wang@polyu.edu.hk"
 # cv_link: link-to-your-cv-file
