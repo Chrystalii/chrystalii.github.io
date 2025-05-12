@@ -8,6 +8,7 @@ body_attr: >-
 
 {% assign pubs_by_year = site.teaching | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
+
 <div class="row">
     <div class="col-12 col-lg-10">
         {% for year in pubs_by_year %}
