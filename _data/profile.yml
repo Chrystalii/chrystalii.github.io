@@ -23,7 +23,7 @@ short_bio: >-
   <p>
     Dr. Xiangmeng Wang is currently a Research Assistant Professor of the Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU), in collaboration with <a href="https://www.polyu.edu.hk/comp/people/academic-staff/prof-li-qing/">Prof. Qing Li</a>.
     She received her Ph.D. degree at the School of Computer Science, Faculty of Engineering and Information Technology, University of Technology Sydney (UTS) (2021-2025), 
-    under the supervision of <a href="https://profiles.uts.edu.au/Guandong.Xu">Prof. Guandong Xu</a>
+    under the supervision of <a href="https://profiles.uts.edu.au/Guandong.Xu">Prof. Guandong Xu</a>.
     Before that, She received her MSc degree in Computer Application Technology from Shanghai University (2017-2020). 
     Her research interests lie primarily in explainable artificial intelligence, data analysis, and causal machine learning. 
     Her papers have been published in top-tier conferences and journals in the field of machine learning <a href="https://scholar.google.com/citations?user=89z_twcAAAAJ&hl=en">Google Scholar</a>.
@@ -34,16 +34,16 @@ portrait_url: /assets/images/photos/xmw.jpg
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: University of Technology Sydney (UTS)
+  logo: /assets/images/uts.jpg
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    Faculty of Engineering and Information Technology <br/>
+    Doctor of Philosophy (Analytics)
+  date: Mar. 2021 - Mar. 2025
+- name: Shanghai University
+  logo: /assets/images/shu.jpg
+  position: Master of Engineering (Computer Application Technology)
+  date: Sep. 2017 - Jul. 2020
 
 # experience:
 # - name: Peking University
@@ -52,9 +52,13 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: National Scholarship from Ministry of Education of China
+  date: 2019
+- name: National Scholarship, National Encouragement Scholarship
+  date: 2016
+- name: Distinguished Graduate Student
+  date: 2017
+-name: Distinction in the 2023 HDR Excellence Awards from UTS
+  date: 2023
+-name: Nominated by UTS for Apple Scholar and Google PhD Fellowship competition
+  date: 2023
