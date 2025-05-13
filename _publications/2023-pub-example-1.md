@@ -1,17 +1,19 @@
 ---
-title:          "Lorem ipsum: Dolor sit amet, consectetur adipiscing elit"
-date:           2023-01-05 00:01:00 +0800
+title:          "MGPolicy: Meta Graph Enhanced Off-policy Learning for Recommendations"
+date:           2022-07-07 00:01:00 +0800
 selected:       true
-pub:            "Nature Communications"
-pub_date:       "2023"
+pub:            "Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)"
+pub_date:       "2022"
 abstract: >-
-  Cover image is a photo by Thomas Renaud on Unsplash. The abstract of the publication is meant to be a TLDR (very brief summary with 1~2 sentences) of your paper.
+This paper proposes a framework termed meta graph enhanced off-policy learning (MGPolicy), which is the first recommendation model for correcting the off-policy bias via contextual information.
 cover:          /assets/images/covers/cover1.jpg
 authors:
-- Your Name*
-- Robert White*
-- John Doe
-- Charles Green (Stanford)
+- Xiangmeng Wang
+- Qian Li
+- Dianer Yu
+- Zhichao Wang
+- Hongxu Chen
+- Guandong Xu
 links:
-  Paper: https://www.cell.com
+  Paper: https://dl.acm.org/doi/abs/10.1145/3477495.3532021
 ---
