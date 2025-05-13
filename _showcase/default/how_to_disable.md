@@ -8,7 +8,7 @@ date: 2020-01-12 00:01:00 +0800
     <h2>Journal Editorship</h2>
     <hr />
     <p>
-         <li>Executive Guest Editor, <a href="https://www.ieeesmc.org/wp-content/uploads/2025/02/CFP_Mental_Disorder_Detection_on_Social_Media.pdf">Special Issue on Mental Disorder Detection on Social Media, IEEE Transactions on Computational Social Systems (IEEE TCSS)</a></li>
+         <li><strong>Executive Guest Editor</strong>, <a href="https://www.ieeesmc.org/wp-content/uploads/2025/02/CFP_Mental_Disorder_Detection_on_Social_Media.pdf">Special Issue on Mental Disorder Detection on Social Media</a>, IEEE Transactions on Computational Social Systems (IEEE TCSS)</li>
     </p>
 </div>
 
