@@ -5,7 +5,7 @@ selected:       true
 pub:            "the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)"
 pub_date:       "2022"
 abstract: >-
-This paper proposes a framework termed meta graph enhanced off-policy learning (MGPolicy), which is the first recommendation model for correcting the off-policy bias via contextual information.
+  This paper proposes a framework termed meta graph enhanced off-policy learning (MGPolicy), which is the first recommendation model for correcting the off-policy bias via contextual information.
 cover:          /assets/images/covers/cover1.jpg
 authors:
   - Xiangmeng Wang

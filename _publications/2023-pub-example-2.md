@@ -1,20 +1,17 @@
 ---
-title:          "MGPolicy: Meta Graph Enhanced Off-policy Learning for Recommendations"
-date:           2022-07-07 00:01:00 +0800
+title:          "Off-policy learning over heterogeneous information for recommendation"
+date:           2022-04-25 00:01:00 +0800
 selected:       true
-pub:            "the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)"
+pub:            "the ACM Web Conference 2022"
 pub_date:       "2022"
 abstract: >-
-This paper proposes a framework termed meta graph enhanced off-policy learning (MGPolicy), which is the first recommendation model for correcting the off-policy bias via contextual information.
+  We are the first to propose a novel off-policy learning augmented by meta-paths for the recommendation. We argue that the Heterogeneous information network (HIN), which provides rich contextual information of items and user aspects, could scale the logged data contribution for unbiased target policy learning.
 cover:          /assets/images/covers/cover2.jpg
 authors:
-  - Xiangmeng Wang
-  - John Doe*
-  - Robert White
-  - James Wang
-  - Your Name#
+  - Xiangmeng Wang*
+  - Qian Li*
+  - Dianer Yu
+  - Guandong Xu#
 links:
-  Paper: https://www.biorxiv.org
-  Code: https://github.com
-  Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
+  Paper: https://dl.acm.org/doi/abs/10.1145/3485447.3512072
 ---
