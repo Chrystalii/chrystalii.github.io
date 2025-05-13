@@ -8,26 +8,20 @@ body_attr: >-
 
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
-
-<div class="row">
-<h1>Wenqi Fan - Teaching</h1>
+<div class="p-4">
+    <h2>Instructor at PolyU:</h2>
+    <hr />
+    <p>
+        <li>Coming soon.</li>
+    </p>
 </div>
-<h2>Instructor at PolyU: </h2>
-<ul>
-<li><p>COMP5940: Dissertation</p>
-</li>
-<li><p>COMP4913: Capstone Project</p>
-</li>
-<li><p>MM5413: Business Forecasting </p>
-</li>
-    </div>
 
-<!--     <div class="col-2 d-none d-lg-block">
-        <div id="navbar-year" class="nav nav-pills flex-column sticky-top" style="top: 80px">
-            {% for year in pubs_by_year %}
-            <a class="nav-link d-block" href="#year-{{ year.name }}">{{ year.name }}</a>
-            {% endfor %}
-        </div>
-    </div>
-
-</div> -->
+<div class="p-4">
+    <h2>Casual Tutor at UTS:</h2>
+    <hr />
+    <p>
+        <li><strong>31748</strong>: Programming on the Internet. Autumn 2023</li>
+        <li><strong>32516</strong>: Internet Programming. Autumn 2023</li>
+        <li><strong>41004</strong>: AI/Analytics Capstone Project. Autumn 2022</li>
+    </p>
+</div>
