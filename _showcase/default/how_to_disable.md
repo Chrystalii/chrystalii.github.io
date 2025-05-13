@@ -1,13 +1,13 @@
 ---
 show: true
-width: 4
+width: 10
 date: 2020-01-12 00:01:00 +0800
 ---
 
 <div class="p-4">
-    <h5>Disable Showcase Page?</h5>
+    <h5>Tutorials</h5>
     <hr />
     <p>
-        If you want to disable this showcase page, you can hide it from the navigation bar by removing the showcase in <code>data/navigation.yml</code>
+        <li>Qian Li, <strong>Xiangmeng Wang</strong>, <strong>Recent Advances in Causality-based Recommendation</strong>, Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD, Tutorial)</li>
     </p>
 </div>
