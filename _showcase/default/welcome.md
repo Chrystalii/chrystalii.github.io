@@ -17,3 +17,11 @@ date: 2024-01-12 00:01:00 +0800
         <li>Qing Li, LEONG Hong Va, Jun Li, <strong>Xiangmeng Wang</strong>, Yifei Yan and Ziyan Zhang, <strong>Detection of Suicide Risk on Social Media, IEEE BigData 2024 Cup Challenge (BigData Cup)</strong>. Online Competition. <a href="https://www3.cs.stonybrook.edu/~ieeebigdata2024/BigDataCupChallenges.html">Website<i class="fas fa-angle-double-right"></i></a></li>
     </p>
 </div>
+
+<div class="p-4">
+    <h2>Tutorials</h2>
+    <hr />
+    <p>
+        <li>Qian Li, <strong>Xiangmeng Wang</strong>, <strong>Recent Advances in Causality-based Recommendation</strong>, Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD, Tutorial)</li>
+    </p>
+</div>
