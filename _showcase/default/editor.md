@@ -13,10 +13,22 @@ date: 2020-01-12 00:01:00 +0800
 </div>
 
 <div class="p-4">
-    <h2>Conference Program Committee</h2>
+    <h3>Conference Session Chair</h3>
     <hr />
     <p>
-         <li>PRICAI 2023, PRICAI 2022, BESC 2023</li>
+         <li>ICDE 2024</li>
+    </p>
+    <h3>Conference Program Committee</h3>
+    <hr />
+    <p>
+         <li>BESC 2023</li>
+         <li>PRICAI 2023</li>
+         <li>PRICAI 2022</li>        
+    </p>
+    <h3>Conference Track Co-Chair</h3>
+    <hr />
+    <p>
+         <li>PolyU COMP - HKUST (GZ) INFH Research Student Conference (AI for science)</li>
     </p>
 </div>
 
