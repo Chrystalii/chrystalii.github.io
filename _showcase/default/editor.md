@@ -13,19 +13,26 @@ date: 2020-01-12 00:01:00 +0800
 </div>
 
 <div class="p-4">
+    <h3>Conference Program Committee</h3>
+    <hr />
+    <p>
+         <li>BESC 2025</li>
+         <li>BESC 2024</li>
+         <li>BESC 2023</li>
+         <li>PRICAI 2023</li>
+         <li>PRICAI 2022</li>        
+    </p>
+    <h3>Workshop Chair</h3>
+    <hr />
+    <p>
+         <li>ICWL-SETE 2025</li>
+    </p>
     <h3>Conference Session Chair</h3>
     <hr />
     <p>
          <li>ICDE 2024</li>
     </p>
-    <h3>Conference Program Committee</h3>
-    <hr />
-    <p>
-         <li>BESC 2023</li>
-         <li>PRICAI 2023</li>
-         <li>PRICAI 2022</li>        
-    </p>
-    <h3>Conference Track Co-Chair</h3>
+    <h3>Conference Track Chair</h3>
     <hr />
     <p>
          <li>PolyU COMP - HKUST (GZ) INFH Research Student Conference (AI for science)</li>
