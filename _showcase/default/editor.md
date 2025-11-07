@@ -8,6 +8,7 @@ date: 2020-01-12 00:01:00 +0800
     <h2>Journal Editorship</h2>
     <hr />
     <p>
+         <li><strong>Guest Editor</strong>, <a href="https://www.sciencedirect.com/special-issue/325370/large-language-models-and-agentic-ai-for-personalized-learning-cognitive-and-responsible-perspectives">Large Language Models and Agentic AI for Personalized Learning: Cognitive and Responsible Perspectives</a>, Computers and Education: Artificial Intelligence</li>
          <li><strong>Executive Guest Editor</strong>, <a href="https://www.ieeesmc.org/wp-content/uploads/2025/02/CFP_Mental_Disorder_Detection_on_Social_Media.pdf">Special Issue on Mental Disorder Detection on Social Media</a>, IEEE Transactions on Computational Social Systems (IEEE TCSS)</li>
     </p>
 </div>
@@ -26,16 +27,6 @@ date: 2020-01-12 00:01:00 +0800
     <hr />
     <p>
          <li>ICWL-SETE 2025</li>
-    </p>
-    <h3>Conference Session Chair</h3>
-    <hr />
-    <p>
-         <li>ICDE 2024</li>
-    </p>
-    <h3>Conference Track Chair</h3>
-    <hr />
-    <p>
-         <li>PolyU COMP - HKUST (GZ) INFH Research Student Conference (AI for science)</li>
     </p>
 </div>
 
